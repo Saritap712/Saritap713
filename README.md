@@ -1,8 +1,8 @@
 # Saritap713
 - :+1: I am currently working on an investment project 
-- :fútbol: I am coaching soccer
-- :familia: I am helping my parents at home
-- :lápiz: I am learning to speak English
-- :trofeo: I am currently in the eleventh grade
-- :guiño: My name is Sarita Juliana Mora Perez
-- :aliviado: I am 16 years old
+- :decepcionado_aliviado: I am coaching soccer
+- :estrella: I am helping my parents at home
+- :exclamación_grey: I am learning to speak English
+- :bailarina: I am currently in the eleventh grade
+- :ola:  My name is Sarita Juliana Mora Perez
+- :point_right: I am 16 years old
